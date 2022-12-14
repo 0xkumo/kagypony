@@ -11,5 +11,4 @@ the progress of projects are core values
 in achieving long-lasting business
 relationships.
 - 📫 How to reach me ...
-- https://t.me/happyday035180
-- https://join.skype.com/invite/u0t1dwMcjvJS
+- happyday03518@gmail.com

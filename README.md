@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hasegawa Keisuke
-- 👀 I’m interested in web and game development.
-- Very happy when people happy with my product
-- 📫 How to reach me ...
-- happyday03518@gmail.com
+- 🎌 Hi, I’m Hasegawa Keisuke
+- 🧐 I’m interested in web and game development.
+- 🤣 Very happy when people happy with my product
+- 🚀 How to reach me ...
+- 📃 happyday03518@gmail.com

@@ -3,7 +3,7 @@
 - 🤣 Very happy when people happy with my product
 - 🚀 How to reach me ...
 - 📃 happyday03518@gmail.com
-- <i class="fa-brands fa-discord"></i> ponykagy
+- DiscordId ponykagy
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=happyday03518"/>

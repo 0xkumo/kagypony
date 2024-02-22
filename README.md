@@ -3,7 +3,7 @@
 - 🤣 Very happy when people happy with my product
 - 🚀 How to reach me ...
 - 📃 happyday03518@gmail.com
-- ![images](https://github.com/kagypony/kagypony/assets/114330558/d134748b-7e3a-4e07-b5b1-5a1115b2ca1a) ponykagy
+-  <img src="https://github.com/kagypony/kagypony/assets/114330558/d134748b-7e3a-4e07-b5b1-5a1115b2ca1a" width="10" height="10"> ponykagy
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=happyday03518"/>

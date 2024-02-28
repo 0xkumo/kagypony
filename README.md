@@ -2,7 +2,7 @@
 - 🧐 I’m interested Solana & Bsc.
 - 🤣 Very happy when people happy with my product
 - 🚀 How to reach me ...
-- 📃 happyday03518@gmail.com
+- 📃 dev@elei.io
 -  <img src="https://github.com/kagypony/kagypony/assets/114330558/d134748b-7e3a-4e07-b5b1-5a1115b2ca1a" width="20" height="20"> ponykagy
 
 <p align="center">
